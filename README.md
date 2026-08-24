@@ -34,7 +34,7 @@ Requirements:
 Install and build:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/mashiruwu/aso-tracker.git
 cd aso-tracker
 
 python3 -m pip install -r requirements.txt
